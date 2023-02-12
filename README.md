@@ -6,7 +6,7 @@
 - 💻 Ask me about tools that I use to for genomics and transcriptomics data analysis.
 - 📫 How to reach me: nsadeghipour@gmail.com
 - 😄 Pronouns: she/her
-- 🔍 Find more about me: nsadeghi.com
+- 🔍 Find more about me: www.nsadeghi.com
 - ⚡ Fun fact: My name "Negar" means beloved in Persian language, it also means pattern and painting.
 
 <!--
